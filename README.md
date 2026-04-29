@@ -56,7 +56,7 @@ This app is for emergency assistance purposes only. Always contact local authori
 
 ## 👨‍💻 Author
 
-* Jeren j
+* Jeren J Android & Full Stack Developer GitHub: https://github.com/jeren-dev
 
 ---
 
