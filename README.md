@@ -56,7 +56,7 @@ This app is for emergency assistance purposes only. Always contact local authori
 
 ## 👨‍💻 Author
 
-* Your Name
+* Jeren j
 
 ---
 
